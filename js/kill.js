@@ -18,8 +18,8 @@ $(function() {
     }
     window.setInterval(doInverseSpinZeroPitch, 250);
     var tKillNames = ["ムn1ce x cheat ◥◣ ◢◤"];
-    var ctKillNames = ["FORCE-PROJECT.NET", "AIMWARE.NET", "MUTINY.PW", "REVCHEATS.XYZ", "CHlENIX" , "Батыйхан v.2.0."];
-    var weapons = ["ssg", "ak47", "deagle", "g3sg1"];
+    var ctKillNames = ["FORCE-PROJECT.NET", "AIMWARE.NET", "MUTINY.PW", "REVCHEATS.XYZ", "SKEET.CC" , "Батыйхан v.2.0."];
+    var weapons = ["ssg", "AK47", "deagle", "g3sg1"];
     var $killFeedContainer = $('.kill-feed');
     var $killFeedElement = $('.kill-feed > div').hide();
 
